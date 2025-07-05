@@ -12,7 +12,9 @@ Designed to be a minimal and functional Physical keyboard Layout inspired from M
 ## Screenshots
 
 *Arabic QWERTY Keyboard Layout:*
-`![Main Keyboard Layout](Store\ Listing/4.png)`
+<br>
+<br>
+<img src="https://github.com/AbdullahAlh/Arabic-QWERTY-Keyboard-for-Android/blob/adfc7a0287e56d122c30f9a79f3d146e9dd357c3/Store%20Listing/3.png" width="300"/>
 
 ## Getting Started
 
